@@ -1,0 +1,20 @@
+img{
+	width:100%;
+}
+
+.post{
+	margin-bottom:20px;
+	padding-bottom: 20px;
+	border-bottom: #ccc solid 1px;
+}
+
+.post:last-child{
+	border:0;
+}
+
+.profile-img {
+	border-radius: 50%;
+	border: 1px solid #C5C5C5;
+	height: 68px;
+	width: 68px;
+}
